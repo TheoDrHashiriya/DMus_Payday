@@ -19,6 +19,7 @@ Audio Source:
 Tracklist (DMUSDESC Order):
 - Le Castle Vania - Use of Force
 - Le Castle Vania - Infinite Ammo
+- Simon Viklund - Razormind
 
 ## Credits
  Simon Viklund\

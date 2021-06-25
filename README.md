@@ -9,7 +9,10 @@ Please do report any inconsistencies and issues with the loops. I'm terribly nit
 2. Download the music pack [here](https://github.com/TheoDrHashiriya/DMus_Payday/archive/refs/heads/main.zip).
 3. Load both the mod and the music pack into GZDoom.
 
+## Known Issues (& Their Solutions)
 - If the game freezes on level start, see this [issue page](https://github.com/cyberc001/DoomDynMus/issues/2) for a temporary solution.
+- The game will crash with a VM execution aborted error in some instances. Although it was fixed by cyberc001, it still persists at times.\
+The current available workaround is to press the Escape button and start a new game. For more info, here's the [issue page](https://github.com/cyberc001/DoomDynMus/issues/1).
 
 ## Audio Info
 Audio Source:

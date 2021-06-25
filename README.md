@@ -17,7 +17,7 @@ Audio Source:
 
 Audio Quality:
 - Source: 160 kb/s MP3
-- Mod   : 160 kb/s MP3, OGG Vorbis (Converted some music files to OGG Vorbis because MP3 does not support audio looping.)
+- Mod   : Quality level 5 OGG Vorbis (Converted some music files to OGG Vorbis because MP3 does not support audio looping.)
 
 Tracklist (DMUSDESC Order):
 - Le Castle Vania - Use of Force

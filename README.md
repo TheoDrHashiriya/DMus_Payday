@@ -11,7 +11,7 @@ Due to the current state of the mod, the anticipation segments of each track can
 ## Audio Info
 Audio Quality:
 - Source: 160 kb/s MP3
-- Mod   : 160 kb/s MP3
+- Mod   : 160 kb/s MP3, OGG Vorbis (Converted some music files to OGG Vorbis because MP3 does not support audio looping.)
 
 Audio Source:
 - Payday 2 Stealth, Control, Assault Gamerip by CommanderCH
@@ -30,7 +30,9 @@ Tracklist (DMUSDESC Order):
 ## Links
 #### Mod
 [cyberc001's DoomDynMus ZDoom Page](https://forum.zdoom.org/viewtopic.php?f=43&t=72207)\
-[cyberc001's DoomDynMus GitHub repo](https://github.com/cyberc001/DoomDynMus)
+[cyberc001's DoomDynMus GitHub repo](https://github.com/cyberc001/DoomDynMus)\
+[ZDoom Wiki: Audio Loop](https://zdoom.org/wiki/Audio_loop)\
+[Music looping guide using tags](https://forum.zdoom.org/viewtopic.php?f=39&t=48364)
 
 #### Music
 [Simon Viklund's official website](http://www.simonviklund.com)\

@@ -29,7 +29,7 @@ Tracklist (DMUSDESC Order):
 
 ## Links
 #### Mod
-[cyberc001's DoomDynMus ZDoom Page](https://github.com/cyberc001/DoomDynMus)\
+[cyberc001's DoomDynMus ZDoom Page](https://forum.zdoom.org/viewtopic.php?f=43&t=72207)\
 [cyberc001's DoomDynMus GitHub repo](https://github.com/cyberc001/DoomDynMus)
 
 #### Music

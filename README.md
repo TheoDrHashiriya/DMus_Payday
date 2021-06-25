@@ -1,4 +1,4 @@
-# Doom Dynamic Music: PAYDAY
+# Doom Dynamic Music: PAYDAY (Ongoing)
 A music pack that adds tracks from the Payday series to Doom. The control phases of each song are played whenever the player is not in combat and then transitions to the assault phases when in combat.\
 The control phases are seamlessly looped with the help of ZDoom's audio looping feature.\
 Due to the current state of the mod, the anticipation phases of each track cannot be implemented like in the Payday games unfortunately.\

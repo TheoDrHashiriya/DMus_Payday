@@ -5,7 +5,7 @@ Due to the current state of the mod, the anticipation segments of each track can
 
 ## Usage
 1. Download DoomDynMus [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).
-2. Clone this repository to .zip.
+2. Download the music pack [here](https://github.com/TheoDrHashiriya/DMus_Payday/archive/refs/heads/main.zip).
 3. Load both the mod and the music pack into GZDoom.
 
 ## Audio Info

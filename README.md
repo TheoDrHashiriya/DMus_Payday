@@ -8,6 +8,8 @@ Due to the current state of the mod, the anticipation phases of each track canno
 2. Download the music pack [here](https://github.com/TheoDrHashiriya/DMus_Payday/archive/refs/heads/main.zip).
 3. Load both the mod and the music pack into GZDoom.
 
+- If the game freezes on level start, see this [issue page](https://github.com/cyberc001/DoomDynMus/issues/2) for a temporary solution.
+
 ## Audio Info
 Audio Source:
 - CommanderCH's PAYDAY 2 [Stealth](https://www.dropbox.com/s/ibtl9dt7jw2m1x7/PD2%20Sountracks%20Stealth.zip?dl=0), [Control](https://www.dropbox.com/s/7q0h4k0oxg15p4g/PD2%20Soundtracks%20Control.zip?dl=0), [Assault](https://www.dropbox.com/s/49j5dm3z1icb4hr/PD2%20Soundtracks%20Assault.zip?dl=0) Phases Soundtracks

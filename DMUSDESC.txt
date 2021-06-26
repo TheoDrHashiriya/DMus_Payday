@@ -2,3 +2,5 @@ UOF_C UOF_A *0
 IA_C IA_A *0
 RM_C RM_A *0
 TM_C TM_A *0
+CS_C CS_A *0
+TT_C TT_A *0

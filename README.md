@@ -37,11 +37,12 @@ The current available workaround is to press the Escape button and start a new g
 ### Tracklist (DMUSDESC Order):
 1. Le Castle Vania - Use of Force
 2. Le Castle Vania - Infinite Ammo
-3. Simon Viklund - Razormind
-4. Simon Viklund - The Mark
-5. Simon Viklund - Code Silver
-6. Simon Viklund - Tick Tock
-7. Simon Viklund - The Gauntlet
+3. Le Castle Vania - Fully Loaded Epic Win
+4. Simon Viklund - Razormind
+5. Simon Viklund - The Mark
+6. Simon Viklund - Code Silver
+7. Simon Viklund - Tick Tock
+8. Simon Viklund - The Gauntlet
 - Simon Viklund - Criminal Intent (Main Menu Theme)
 - Simon Viklund - Busted (Death Theme)
 - Simon Viklund - See You at the Safe House (Intermission Theme)

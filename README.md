@@ -15,10 +15,16 @@
 - Non-ideal for long operations; Novelty fades.
 - [Known Issues](https://github.com/TheoDrHashiriya/DMus_Payday#known-issues--their-solutions).
 
-## Usage
-1. Download DoomDynMus [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).
+## Installation
+1. Download the DoomDynMus mod [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).
 2. Download the music pack [here](https://github.com/TheoDrHashiriya/DMus_Payday/archive/refs/heads/main.zip).
 3. Load both the mod and the music pack into GZDoom.
+
+### Load Order
+- Load any music packs before the mod.
+
+### Usage
+- See the mod page's [Features list](https://forum.zdoom.org/viewtopic.php?f=43&t=72207#p1188860).
 
 ## Known Issues (& Their Solutions)
 - If the game freezes on level start, see this [issue page](https://github.com/cyberc001/DoomDynMus/issues/2) for a temporary solution.

@@ -42,7 +42,7 @@ The current available workaround is to press the Escape button and start a new g
 6. Simon Viklund - Tick Tock
 
 ## Credits
-#### Mod
+### Mod
 cyberc001\
 \
 [cyberc001's DoomDynMus ZDoom Page](https://forum.zdoom.org/viewtopic.php?f=43&t=72207)\
@@ -51,7 +51,7 @@ cyberc001\
 [Music looping guide using tags](https://forum.zdoom.org/viewtopic.php?f=39&t=48364)\
 [Audacity](https://www.audacityteam.org/)
 
-#### Music
+### Music
 Simon Viklund\
 Le Castle Vania\
 CommanderCH\

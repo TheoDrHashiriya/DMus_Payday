@@ -42,16 +42,9 @@ The current available workaround is to press the Escape button and start a new g
 6. Simon Viklund - Tick Tock
 
 ## Credits
-### Mentions
 #### Mod
-cyberc001
-#### Music
-Simon Viklund\
-Le Castle Vania\
-CommanderCH
-
-### Links
-#### Mod
+cyberc001\
+\
 [cyberc001's DoomDynMus ZDoom Page](https://forum.zdoom.org/viewtopic.php?f=43&t=72207)\
 [cyberc001's DoomDynMus GitHub repo](https://github.com/cyberc001/DoomDynMus)\
 [ZDoom Wiki: Audio Loop](https://zdoom.org/wiki/Audio_loop)\
@@ -59,6 +52,10 @@ CommanderCH
 [Audacity](https://www.audacityteam.org/)
 
 #### Music
+Simon Viklund\
+Le Castle Vania\
+CommanderCH\
+\
 [Simon Viklund's official website](http://www.simonviklund.com)\
 [Le Castle Vania's official website](https://lecastlevania.com/)\
 [PAYDAY - The Game Soundtrack](https://overkillsoundtracks.bandcamp.com/album/payday-the-game-soundtrack)\

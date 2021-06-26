@@ -24,12 +24,12 @@ Audio Quality:
 - Mod   : Quality level 5 OGG Vorbis (Converted the music files to OGG Vorbis because MP3 does not support audio looping.)
 
 Tracklist (DMUSDESC Order):
-- Le Castle Vania - Use of Force
-- Le Castle Vania - Infinite Ammo
-- Simon Viklund - Razormind
-- Simon Viklund - The Mark
-- Simon Viklund - Code Silver
-- Simon Viklund - Tick Tock
+1. Le Castle Vania - Use of Force
+2. Le Castle Vania - Infinite Ammo
+3. Simon Viklund - Razormind
+4. Simon Viklund - The Mark
+5. Simon Viklund - Code Silver
+6. Simon Viklund - Tick Tock
 
 ## Credits
  Simon Viklund\

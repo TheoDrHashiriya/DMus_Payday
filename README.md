@@ -6,11 +6,11 @@
 - Suggestions are welcome in the issues page.
 
 ## Pros & Cons
-#### Pros
+### Pros
 - Boosts morale.
 - Increases operation speed.
 
-#### Cons
+### Cons
 - Increases mortality rate.
 - Non-ideal for long operations; Novelty fades.
 - [Known Issues](https://github.com/TheoDrHashiriya/DMus_Payday#known-issues--their-solutions).
@@ -26,14 +26,14 @@
 The current available workaround is to press the Escape button and start a new game. For more info, here's the [issue page](https://github.com/cyberc001/DoomDynMus/issues/1).
 
 ## Audio Info
-#### Audio Source:
+### Audio Source:
 - CommanderCH's PAYDAY 2 [Stealth](https://www.dropbox.com/s/ibtl9dt7jw2m1x7/PD2%20Sountracks%20Stealth.zip?dl=0), [Control](https://www.dropbox.com/s/7q0h4k0oxg15p4g/PD2%20Soundtracks%20Control.zip?dl=0), [Assault](https://www.dropbox.com/s/49j5dm3z1icb4hr/PD2%20Soundtracks%20Assault.zip?dl=0) Phases Soundtracks
 
-#### Audio Quality:
+### Audio Quality:
 - Source: 160 kb/s MP3
 - Mod   : Quality level 5 OGG Vorbis (Converted the music files to OGG Vorbis because MP3 does not support audio looping.)
 
-#### Tracklist (DMUSDESC Order):
+### Tracklist (DMUSDESC Order):
 1. Le Castle Vania - Use of Force
 2. Le Castle Vania - Infinite Ammo
 3. Simon Viklund - Razormind
@@ -42,12 +42,15 @@ The current available workaround is to press the Escape button and start a new g
 6. Simon Viklund - Tick Tock
 
 ## Credits
- Simon Viklund\
- Le Castle Vania\
- cyberc001\
- CommanderCH
+### Mentions
+#### Mod
+cyberc001
+#### Music
+Simon Viklund\
+Le Castle Vania\
+CommanderCH
 
-## Links
+### Links
 #### Mod
 [cyberc001's DoomDynMus ZDoom Page](https://forum.zdoom.org/viewtopic.php?f=43&t=72207)\
 [cyberc001's DoomDynMus GitHub repo](https://github.com/cyberc001/DoomDynMus)\

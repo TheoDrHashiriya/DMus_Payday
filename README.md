@@ -28,6 +28,8 @@ Tracklist (DMUSDESC Order):
 - Le Castle Vania - Infinite Ammo
 - Simon Viklund - Razormind
 - Simon Viklund - The Mark
+- Simon Viklund - Code Silver
+- Simon Viklund - Tick Tock
 
 ## Credits
  Simon Viklund\

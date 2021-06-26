@@ -5,6 +5,15 @@
 - Please do report any inconsistencies and issues with the audio looping and volume. I'm terribly nitpicky about those.
 - Suggestions are welcome in the issues page.
 
+## Pros & Cons
+#### Pros
+- Boosts morale.
+
+#### Cons
+- Non-ideal for long operations.
+- Mortality rate increases.
+- Reduces life span.
+
 ## Usage
 1. Download DoomDynMus [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).
 2. Download the music pack [here](https://github.com/TheoDrHashiriya/DMus_Payday/archive/refs/heads/main.zip).

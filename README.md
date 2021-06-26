@@ -8,11 +8,12 @@
 ## Pros & Cons
 #### Pros
 - Boosts morale.
+- Increases operation speed.
 
 #### Cons
-- Non-ideal for long operations.
-- Mortality rate increases.
-- Reduces life span.
+- Increases mortality rate.
+- Non-ideal for long operations; Novelty fades.
+- [Known Issues](https://github.com/TheoDrHashiriya/DMus_Payday#known-issues--their-solutions).
 
 ## Usage
 1. Download DoomDynMus [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).

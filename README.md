@@ -3,6 +3,7 @@
 - The control phases are seamlessly looped with the help of ZDoom's audio looping feature.
 - Due to the current state of the mod, the anticipation phases of each track cannot be implemented like in the Payday games unfortunately.
 - Please do report any inconsistencies and issues with the audio looping and volume. I'm terribly nitpicky about those.
+- Suggestions are welcome in the issues page.
 
 ## Usage
 1. Download DoomDynMus [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).

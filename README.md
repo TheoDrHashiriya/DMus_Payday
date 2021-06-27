@@ -32,6 +32,7 @@
 - The game freezes on level start when loading the cloned repo and the mod without extracting and repacking the music pack first. See this [issue page](https://github.com/cyberc001/DoomDynMus/issues/2).
 - The game will crash with a VM execution aborted error in some instances. Although it was fixed by cyberc001, it still persists at times.\
 The current available workaround is to press the Escape button and start a new game. For more info, here's the [issue page](https://github.com/cyberc001/DoomDynMus/issues/1).
+- Due to how text files are cloned, there will be an extra blank line in the DMUSDESC file when downloaded to .zip. Meaning, it will register a silent track group that causes a crash. Delete this extra line from the DMUSDESC file.
 
 ## Audio Info
 ### Audio Source:

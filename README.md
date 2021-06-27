@@ -44,11 +44,12 @@ The current available workaround is to press the Escape button and start a new g
 1. Le Castle Vania - Use of Force
 2. Le Castle Vania - Infinite Ammo
 3. Le Castle Vania - Fully Loaded Epic Win
-4. Simon Viklund - Razormind
-5. Simon Viklund - The Mark
-6. Simon Viklund - Code Silver
-7. Simon Viklund - Tick Tock
-8. Simon Viklund - The Gauntlet
+4. Simon Viklund - Gun Metal Grey
+5. Simon Viklund - Razormind
+6. Simon Viklund - The Mark
+7. Simon Viklund - Code Silver
+8. Simon Viklund - Tick Tock
+9. Simon Viklund - The Gauntlet
 - Simon Viklund - Criminal Intent (Main Menu Theme)
 - Simon Viklund - Busted (Death Theme)
 - Simon Viklund - See You at the Safe House (Intermission Theme)

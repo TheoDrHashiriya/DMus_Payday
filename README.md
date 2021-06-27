@@ -20,7 +20,7 @@
 2. Download the music pack [here](https://github.com/TheoDrHashiriya/DMus_Payday/archive/refs/heads/main.zip).
 3. Extract the contents of the music pack.
 4. Select the contents and add them to archive.
-5. Load both the mod and the music pack into GZDoom.
+5. Load both the mod and the new music pack archive into GZDoom.
 
 ### Load Order
 - Load any music packs before the mod.

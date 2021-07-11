@@ -14,7 +14,7 @@
 - Increases mortality rate.
 - Non-ideal for long operations; Novelty fades.
 - [Known Issues](https://github.com/TheoDrHashiriya/DMus_Payday#known-issues--their-solutions).
-- Causes complications when using mods that modify enemy AI, like the switching back and forth between the control and assault phases when using [Ugly as Sin](https://github.com/caligari87/Ugly-as-Sin/)'s AI module.
+- Causes complications when using mods that modify enemy AI, like the switching back and forth between the control and assault phases when using [Ugly as Sin](https://github.com/caligari87/Ugly-as-Sin/)'s Advanced AI module.
 
 ## Installation
 1. Download the DoomDynMus mod [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).

@@ -3,7 +3,7 @@
 - The control and assault phases are seamlessly looped with the help of ZDoom's audio looping feature and Audacity.
 - Due to the current state of the mod, the anticipation phases of each track cannot be implemented like in the Payday games unfortunately.
 - Please do report any inconsistencies and issues with the audio looping and volume. I'm terribly nitpicky about those.
-- Suggestions are welcome in the issues page.
+- Suggestions, especially for specific Payday tracks, are welcome in the issues page.
 
 ## Pros & Cons
 ### Pros

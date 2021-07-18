@@ -24,7 +24,7 @@
 6. Load both the new music pack archive and the mod into GZDoom.
 
 ### Load Order
-- Load any music packs before the mod.
+- Load DMus_Payday, and any other music packs, before DoomDynMus.
 
 ### Usage
 - See the mod page's [Features list](https://forum.zdoom.org/viewtopic.php?f=43&t=72207#p1188860).

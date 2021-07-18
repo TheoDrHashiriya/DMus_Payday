@@ -19,9 +19,8 @@
 1. Download the DoomDynMus mod [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).
 2. Download the music pack [here](https://github.com/TheoDrHashiriya/DMus_Payday/archive/refs/heads/main.zip).
 3. Extract the contents of the music pack.
-4. Open the DMUSDESC text file and delete the last empty line, if there are any. (See the [Known Issues](https://github.com/TheoDrHashiriya/DMus_Payday#known-issues--their-solutions) for more info.)
-5. Select the contents and add them to archive.
-6. Load both the new music pack archive and the mod into GZDoom.
+4. Select the contents and add them to archive.
+5. Load both the new music pack archive and the mod into GZDoom.
 
 ### Load Order
 - Load DMus_Payday, and any other music packs, before DoomDynMus.
@@ -30,11 +29,11 @@
 - See the mod page's [Features list](https://forum.zdoom.org/viewtopic.php?f=43&t=72207#p1188860).
 
 ## Known Issues (& Their Solutions)
-- Due to how text files are cloned, there will be an extra blank line in the DMUSDESC file when downloaded to .zip. Meaning, it will register a silent track group that causes a crash. Delete this extra line from the DMUSDESC file.
 - The game freezes on level start when loading the cloned repo and the mod without extracting and repacking the music pack first. See this [issue page](https://github.com/cyberc001/DoomDynMus/issues/2).
 - The game will crash with a VM execution aborted error in some instances. Although it was fixed by cyberc001, it still persists at times.\
 The current available workaround is to press the Escape button and start a new game. For more info, here's the [issue page](https://github.com/cyberc001/DoomDynMus/issues/1).
 - Using mods that modify enemy AI causes complications, like the switching back and forth between the control and assault phases when using [Ugly as Sin](https://github.com/caligari87/Ugly-as-Sin/)'s Advanced AI module.
+- ~~Due to how text files are cloned, there will be an extra blank line in the DMUSDESC file when downloaded to .zip. Meaning, it will register a silent track group that causes a crash. Delete this extra line from the DMUSDESC file.~~
 
 ## Audio Info
 ### Audio Source:

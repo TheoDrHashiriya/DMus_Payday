@@ -43,7 +43,7 @@ The current available workaround is to press the Escape button and start a new g
 
 ### Audio Quality:
 - Source: 160 kb/s MP3, 128-152 kb/s OGG Opus
-- Mod   : Quality level 5 OGG Vorbis (Converted the music files to OGG Vorbis because MP3 does not support audio looping.)
+- Mod   : Quality level 5 OGG Vorbis (Converted the music files to OGG Vorbis because MP3 and OPUS does not support audio looping.)
 
 ### Tracklist (DMUSDESC Order):
 1. Le Castle Vania - Use of Force

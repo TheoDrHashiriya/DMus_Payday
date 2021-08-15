@@ -33,7 +33,7 @@
 - The game freezes on level start when loading the cloned repo and the mod without extracting and repacking the music pack first. See this [issue page](https://github.com/cyberc001/DoomDynMus/issues/2).
 - The game will crash with a VM execution aborted error in some instances. Although it was fixed by cyberc001, it still persists at times.\
 The current available workaround is to press the Escape button and start a new game. For more info, here's the [issue page](https://github.com/cyberc001/DoomDynMus/issues/1).
-- Using mods that modify enemy AI causes complications, like the switching back and forth between the control and assault phases when using [Ugly as Sin](https://github.com/caligari87/Ugly-as-Sin/)'s Advanced AI module. Load the music pack and the mod before any mods that alter enemy AI.
+- Using mods that modify enemy AI causes complications, like the switching back and forth between the control and assault phases when using [Ugly as Sin](https://github.com/caligari87/Ugly-as-Sin/)'s Advanced AI module. Load the music pack and the mod before any mods that alter enemy AI. If issue persists, then remove the AI mod from the load order.
 - ~~Due to how text files are cloned, there will be an extra blank line in the DMUSDESC file when downloaded to .zip. Meaning, it will register a silent track group that causes a crash. Delete this extra line from the DMUSDESC file.~~
 
 ## Audio Info

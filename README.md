@@ -60,6 +60,7 @@ The current available workaround is to press the Escape button and start a new g
 9. Simon Viklund - The Gauntlet
 10. Simon Viklund - Wanted Dead or Alive
 11. Simon Viklund - Calling all Units
+12. Simon Viklund - Backstab
 - Simon Viklund - Criminal Intent (Main Menu Theme)
 - Simon Viklund - See You at the Safe House (Intermission Theme)
 - Simon Viklund - Busted (Death Theme)

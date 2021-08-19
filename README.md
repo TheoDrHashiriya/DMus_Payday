@@ -18,7 +18,7 @@
 ## Installation
 A. Release
 1. Download the DoomDynMus mod [here](https://github.com/cyberc001/DoomDynMus/archive/refs/heads/master.zip).
-2. Download the music pack release [here]().
+2. Download the music pack release [here](https://github.com/TheoDrHashiriya/DMus_Payday/releases/download/v1.0/DMus_Payday-v1.0.pk3).
 3. Load both the music pack archive and the mod into GZDoom.
 
 B. Repository

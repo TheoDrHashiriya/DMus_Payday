@@ -55,6 +55,7 @@ The current available workaround is to press the Escape button and start a new g
 7. Simon Viklund - Code Silver
 8. Simon Viklund - Tick Tock
 9. Simon Viklund - The Gauntlet
+10. Simon Viklund - Wanted Dead or Alive
 - Simon Viklund - Criminal Intent (Main Menu Theme)
 - Simon Viklund - Busted (Death Theme)
 - Simon Viklund - See You at the Safe House (Intermission Theme)

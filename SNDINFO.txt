@@ -1,10 +1,10 @@
 $musicalias D_DM2TTL D_INTRO
 $musicalias S_INTRO D_INTRO
-$musicalias P_DM2TTL D_INTRO
 $musicalias T_DM2TTL D_INTRO
+$musicalias P_DM2TTL D_INTRO
 $musicalias HDMENMUS D_INTRO
 
 $musicalias D_DM2INT D_INTER
 $musicalias S_INTER D_INTER
-$musicalias P_DM2INT D_INTER
 $musicalias T_DM2INT D_INTER
+$musicalias P_DM2INT D_INTER

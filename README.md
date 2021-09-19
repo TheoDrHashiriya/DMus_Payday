@@ -1,6 +1,7 @@
 # Doom Dynamic Music: PAYDAY
 - A music pack that adds dynamic tracks from the Payday series to Doom. The control phases of each song are played whenever the player is not in combat and then transitions to the assault phases when in combat.
 - The control and assault phases are seamlessly looped with the help of ZDoom's audio looping feature and Audacity.
+- The original Doom tracks are manually muted using a blank music file to prevent them from playing briefly during level loading. Wadsmoosh-compatible.
 - Due to the state of the mod, the anticipation phases of each track cannot be implemented like in the Payday games unfortunately.
 - Please do report any inconsistencies and issues with the audio looping and volume. I'm terribly nitpicky about those.
 - Suggestions, especially for specific Payday tracks, are welcome in the issues page.
@@ -39,6 +40,7 @@ B. Release
 - See the mod page's [Features list](https://forum.zdoom.org/viewtopic.php?f=43&t=72207#p1188860).
 
 ## Known Issues (& Their Solutions)
+- Semi-compatible with Doom Metal Vol. 5 & Brutal Doom v21 Enhancements Only. Copy BDV21EnhancementsOnly.pk3 and rename it to any other name. Go inside the new file using SLADE and delete all "SetMusic(MusicName);" texts inside its DYNAMICLEV.txt. Save and compile (ACS) the text. After that, save the file.
 - The game freezes on level start when loading the cloned repo and the mod without extracting and repacking the music pack first. See this [issue page](https://github.com/cyberc001/DoomDynMus/issues/2).
 - The game will crash with a VM execution aborted error in some instances. Although it was fixed by cyberc001, it still persists at times.\
 The current available workaround is to press the Escape button and start a new game. For more info, here's the [issue page](https://github.com/cyberc001/DoomDynMus/issues/1).
@@ -67,7 +69,7 @@ The current available workaround is to press the Escape button and start a new g
 10. Simon Viklund - Wanted Dead or Alive
 11. Simon Viklund - Calling all Units
 12. Simon Viklund - Backstab
-- Simon Viklund - Criminal Intent (Main Menu Theme)
+- Simon Viklund - Criminal Intent (Title Theme)
 - Simon Viklund - See You at the Safe House (Intermission Theme)
 - Simon Viklund - Busted (Death Theme)
 

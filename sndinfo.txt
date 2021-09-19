@@ -1,0 +1,183 @@
+//// Duplicates
+
+// Title
+$musicalias d_introa d_intro
+$musicalias s_intro  d_intro
+$musicalias d_dm2ttl d_intro
+$musicalias t_dm2ttl d_intro
+$musicalias p_dm2ttl d_intro
+$musicalias hdmenmus d_intro
+
+// Intermission
+$musicalias s_inter  d_inter
+$musicalias d_dm2int d_inter
+$musicalias t_dm2int d_inter
+$musicalias p_dm2int d_inter
+$musicalias d_lost   d_inter
+
+
+//// Blanks
+
+// Doom
+$musicalias d_bunny  blankmus
+$musicalias d_e1m1   blankmus
+$musicalias d_e1m2   blankmus
+$musicalias d_e1m3   blankmus
+$musicalias d_e1m4   blankmus
+$musicalias d_e1m5   blankmus
+$musicalias d_e1m6   blankmus
+$musicalias d_e1m7   blankmus
+$musicalias d_e1m8   blankmus
+$musicalias d_e1m9   blankmus
+$musicalias d_e2m1   blankmus
+$musicalias d_e2m2   blankmus
+$musicalias d_e2m3   blankmus
+$musicalias d_e2m4   blankmus
+$musicalias d_e2m5   blankmus
+$musicalias d_e2m6   blankmus
+$musicalias d_e2m7   blankmus
+$musicalias d_e2m8   blankmus
+$musicalias d_e2m9   blankmus
+$musicalias d_e3m1   blankmus
+$musicalias d_e3m2   blankmus
+$musicalias d_e3m3   blankmus
+$musicalias d_e3m4   blankmus
+$musicalias d_e3m5   blankmus
+$musicalias d_e3m6   blankmus
+$musicalias d_e3m7   blankmus
+$musicalias d_e3m8   blankmus
+$musicalias d_e3m9   blankmus
+$musicalias d_victor blankmus
+
+// SIGIL
+$musicalias d_e5m1   blankmus
+$musicalias d_e5m2   blankmus
+$musicalias d_e5m3   blankmus
+$musicalias d_e5m4   blankmus
+$musicalias d_e5m5   blankmus
+$musicalias d_e5m6   blankmus
+$musicalias d_e5m7   blankmus
+$musicalias d_e5m8   blankmus
+$musicalias d_e5m9   blankmus
+
+// Doom II, TNT, Plutonia
+$musicalias d_adrian blankmus
+$musicalias d_ampie  blankmus
+$musicalias d_betwee blankmus
+$musicalias d_count2 blankmus
+$musicalias d_countd blankmus
+$musicalias d_ddtbl2 blankmus
+$musicalias d_ddtbl3 blankmus
+$musicalias d_ddtblu blankmus
+$musicalias d_dead   blankmus
+$musicalias d_dead2  blankmus
+$musicalias d_doom   blankmus
+$musicalias d_doom2  blankmus
+$musicalias d_evil   blankmus
+$musicalias d_in_cit blankmus
+$musicalias d_messag blankmus
+$musicalias d_messg2 blankmus
+$musicalias d_openin blankmus
+$musicalias d_read_m blankmus
+$musicalias d_romer2 blankmus
+$musicalias d_romero blankmus
+$musicalias d_runni2 blankmus
+$musicalias d_runnin blankmus
+$musicalias d_shawn  blankmus
+$musicalias d_shawn2 blankmus
+$musicalias d_shawn3 blankmus
+$musicalias d_stalks blankmus
+$musicalias d_stlks2 blankmus
+$musicalias d_stlks3 blankmus
+$musicalias d_tense  blankmus
+$musicalias d_theda2 blankmus
+$musicalias d_theda3 blankmus
+$musicalias d_the_da blankmus
+$musicalias d_ultima blankmus
+
+// TNT (Wadsmoosh)
+$musicalias t_adrian blankmus
+$musicalias t_ampie  blankmus
+$musicalias t_betwee blankmus
+$musicalias t_count2 blankmus
+$musicalias t_countd blankmus
+$musicalias t_ddtbl2 blankmus
+$musicalias t_ddtbl3 blankmus
+$musicalias t_ddtblu blankmus
+$musicalias t_dead   blankmus
+$musicalias t_dead2  blankmus
+$musicalias t_doom   blankmus
+$musicalias t_doom2  blankmus
+$musicalias t_evil   blankmus
+$musicalias t_in_cit blankmus
+$musicalias t_messag blankmus
+$musicalias t_messg2 blankmus
+$musicalias t_openin blankmus
+$musicalias t_read_m blankmus
+$musicalias t_romer2 blankmus
+$musicalias t_romero blankmus
+$musicalias t_runni2 blankmus
+$musicalias t_runnin blankmus
+$musicalias t_shawn  blankmus
+$musicalias t_shawn2 blankmus
+$musicalias t_shawn3 blankmus
+$musicalias t_stalks blankmus
+$musicalias t_stlks2 blankmus
+$musicalias t_stlks3 blankmus
+$musicalias t_tense  blankmus
+$musicalias t_theda2 blankmus
+$musicalias t_theda3 blankmus
+$musicalias t_the_da blankmus
+$musicalias t_ultima blankmus
+
+// TNT (Doom Metal Soundtrack Vol. 5, Brutal Doom v21 Enhancements Only)
+$musicalias d_agony  blankmus
+$musicalias d_aim    blankmus
+$musicalias d_beast  blankmus
+$musicalias d_bells  blankmus
+$musicalias d_blood  blankmus
+$musicalias d_burn   blankmus
+$musicalias d_burn2  blankmus
+$musicalias d_chaos  blankmus
+$musicalias d_cold   blankmus
+$musicalias d_doom3  blankmus
+$musicalias d_horizo blankmus
+$musicalias d_infini blankmus
+$musicalias d_kill   blankmus
+$musicalias d_more   blankmus
+$musicalias d_sadist blankmus
+
+// Plutonia (Wadsmoosh)
+$musicalias p_adrian blankmus
+$musicalias p_ampie  blankmus
+$musicalias p_betwee blankmus
+$musicalias p_count2 blankmus
+$musicalias p_countd blankmus
+$musicalias p_ddtbl2 blankmus
+$musicalias p_ddtbl3 blankmus
+$musicalias p_ddtblu blankmus
+$musicalias p_dead   blankmus
+$musicalias p_dead2  blankmus
+$musicalias p_doom   blankmus
+$musicalias p_doom2  blankmus
+$musicalias p_evil   blankmus
+$musicalias p_in_cit blankmus
+$musicalias p_messag blankmus
+$musicalias p_messg2 blankmus
+$musicalias p_openin blankmus
+$musicalias p_read_m blankmus
+$musicalias p_romer2 blankmus
+$musicalias p_romero blankmus
+$musicalias p_runni2 blankmus
+$musicalias p_runnin blankmus
+$musicalias p_shawn  blankmus
+$musicalias p_shawn2 blankmus
+$musicalias p_shawn3 blankmus
+$musicalias p_stalks blankmus
+$musicalias p_stlks2 blankmus
+$musicalias p_stlks3 blankmus
+$musicalias p_tense  blankmus
+$musicalias p_theda2 blankmus
+$musicalias p_theda3 blankmus
+$musicalias p_the_da blankmus
+$musicalias p_ultima blankmus

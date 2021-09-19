@@ -1,0 +1,12 @@
+uof_c	uof_a	busted
+ia_c	ia_a	busted
+flew_c	flew_a	busted
+gmg_c	gmg_a	busted
+rm_c	rm_a	busted
+tm_c	tm_a	busted
+cs_c	cs_a	busted
+tt_c	tt_a	busted
+tg_c	tg_a	busted
+wdoa_c	wdoa_a	busted
+cau_c	cau_a	busted
+b_c		b_a		busted

@@ -40,7 +40,7 @@ B. Release
 - See the mod page's [Features list](https://forum.zdoom.org/viewtopic.php?f=43&t=72207#p1188860).
 
 ## Known Issues (& Their Solutions)
-- Semi-compatible with Doom Metal Vol. 5 & Brutal Doom v21 Enhancements Only. Copy BDV21EnhancementsOnly.pk3 and rename it to any other name. Go inside the new file using SLADE and delete all "SetMusic(MusicName);" texts inside its DYNAMICLEV.txt. Save and compile (ACS) the text. After that, save the file.
+- Semi-compatible with *Doom Metal Vol. 5* & *Brutal Doom v21 Enhancements Only*. Copy BDV21EnhancementsOnly.pk3 and rename it to any other name. Go inside the new file using SLADE and delete all "SetMusic(MusicName);" texts inside its DYNAMICLEV.txt. Save and compile (ACS) the text. After that, save the file.
 - The game freezes on level start when loading the cloned repo and the mod without extracting and repacking the music pack first. See this [issue page](https://github.com/cyberc001/DoomDynMus/issues/2).
 - The game will crash with a VM execution aborted error in some instances. Although it was fixed by cyberc001, it still persists at times.\
 The current available workaround is to press the Escape button and start a new game. For more info, here's the [issue page](https://github.com/cyberc001/DoomDynMus/issues/1).
